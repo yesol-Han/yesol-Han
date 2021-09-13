@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yesol-Han
-- 👀 I’m interested in Embedded and Firmware Code
+- 👀 I’m interested in IoT and Embedded
 - 🌱 I’m currently learning STM series, Linux
 - 📫 My Resume site [https://yesol-han.github.io/resume/](https://yesol-han.github.io/resume/)
 
