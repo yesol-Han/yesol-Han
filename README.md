@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yesol-Han
-- 👀 I’m interested in IoT and Embedded
-- 🌱 I’m currently learning STM series, Linux
+- 👋 Hi, I’m @yesol-Han. 24-years old.
+- 👀 I’m interested in IoT and Embedded SW
+- 🌱 I’m currently learning AI, Node.js
 - 📫 My Resume site [https://yesol-han.github.io/resume/](https://yesol-han.github.io/resume/)
 
 <!---
